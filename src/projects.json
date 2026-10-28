@@ -1,0 +1,152 @@
+[
+  {
+    "id": 0,
+    "title": "准儿机器人",
+    "images": [
+      "/assets/project-0-0.webp",
+      "/assets/project-0-1.webp",
+      "/assets/project-0-2.webp",
+      "/assets/project-0-3.webp",
+      "/assets/project-0-4.webp"
+    ],
+    "category": "产品交互",
+    "subtitle": "让科技拥有温度",
+    "cover": {
+      "640": "/assets/cover-0-640.webp",
+      "1280": "/assets/cover-0-1280.webp"
+    }
+  },
+  {
+    "id": 1,
+    "title": "同阅防扩散系统",
+    "images": [
+      "/assets/project-1-0.webp",
+      "/assets/project-1-1.webp",
+      "/assets/project-1-2.webp",
+      "/assets/project-1-3.webp",
+      "/assets/project-1-4.webp",
+      "/assets/project-1-5.webp",
+      "/assets/project-1-6.webp",
+      "/assets/project-1-7.webp"
+    ],
+    "category": "UI / UX",
+    "subtitle": "让信息安全变得清晰可见",
+    "cover": {
+      "640": "/assets/cover-1-640.webp",
+      "1280": "/assets/cover-1-1280.webp"
+    }
+  },
+  {
+    "id": 2,
+    "title": "中移云易签系统",
+    "images": [
+      "/assets/project-2-0.webp",
+      "/assets/project-2-1.webp",
+      "/assets/project-2-2.webp",
+      "/assets/project-2-3.webp",
+      "/assets/project-2-4.webp",
+      "/assets/project-2-5.webp",
+      "/assets/project-2-6.webp"
+    ],
+    "category": "UI / UX",
+    "subtitle": "数字签署，一触即达",
+    "cover": {
+      "640": "/assets/cover-2-640.webp",
+      "1280": "/assets/cover-2-1280.webp"
+    }
+  },
+  {
+    "id": 3,
+    "title": "大料汽车",
+    "images": [
+      "/assets/project-3-0.webp",
+      "/assets/project-3-1.webp",
+      "/assets/project-3-2.webp",
+      "/assets/project-3-3.webp",
+      "/assets/project-3-4.webp",
+      "/assets/project-3-5.webp",
+      "/assets/project-3-6.webp",
+      "/assets/project-3-7.webp",
+      "/assets/project-3-8.webp",
+      "/assets/project-3-9.webp",
+      "/assets/project-3-10.webp",
+      "/assets/project-3-11.webp",
+      "/assets/project-3-12.webp",
+      "/assets/project-3-13.webp"
+    ],
+    "category": "UI / UX",
+    "subtitle": "连接汽车与生活",
+    "cover": {
+      "640": "/assets/cover-3-640.webp",
+      "1280": "/assets/cover-3-1280.webp"
+    }
+  },
+  {
+    "id": 4,
+    "title": "重症人工智能辅助决策系统",
+    "images": [
+      "/assets/project-4-0.webp",
+      "/assets/project-4-1.webp",
+      "/assets/project-4-2.webp"
+    ],
+    "category": "UI / UX",
+    "subtitle": "为复杂医疗信息建立秩序",
+    "cover": {
+      "640": "/assets/cover-4-640.webp",
+      "1280": "/assets/cover-4-1280.webp"
+    }
+  },
+  {
+    "id": 5,
+    "title": "孝心通",
+    "images": [
+      "/assets/project-5-0.webp",
+      "/assets/project-5-1.webp",
+      "/assets/project-5-2.webp"
+    ],
+    "category": "产品交互",
+    "subtitle": "面向银发人群的友好体验",
+    "cover": {
+      "640": "/assets/cover-5-640.webp",
+      "1280": "/assets/cover-5-1280.webp"
+    }
+  },
+  {
+    "id": 6,
+    "title": "三维作品",
+    "images": [
+      "/assets/project-6-0.webp",
+      "/assets/project-6-1.webp",
+      "/assets/project-6-2.webp",
+      "/assets/project-6-3.webp",
+      "/assets/project-6-4.webp",
+      "/assets/project-6-5.webp",
+      "/assets/project-6-6.webp"
+    ],
+    "category": "视觉探索",
+    "subtitle": "从平面走向立体",
+    "cover": {
+      "640": "/assets/cover-6-640.webp",
+      "1280": "/assets/cover-6-1280.webp"
+    }
+  },
+  {
+    "id": 7,
+    "title": "AIGC",
+    "images": [
+      "/assets/project-7-0.webp",
+      "/assets/project-7-1.webp",
+      "/assets/project-7-2.webp",
+      "/assets/project-7-3.webp",
+      "/assets/project-7-4.webp",
+      "/assets/project-7-5.webp",
+      "/assets/project-7-6.webp"
+    ],
+    "category": "视觉探索",
+    "subtitle": "探索创意的另一种可能",
+    "cover": {
+      "640": "/assets/cover-7-640.webp",
+      "1280": "/assets/cover-7-1280.webp"
+    }
+  }
+]
